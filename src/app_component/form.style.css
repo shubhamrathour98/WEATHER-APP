@@ -1,0 +1,35 @@
+.container form{
+
+margin-top: 5rem;
+
+}
+
+.card{
+    background-color: transparent;
+}
+
+form input[name="city"]{
+background-color:aqua;
+color:black;
+border: 0;
+border-bottom: 2px solid wheat;
+border-radius:0 ;
+}
+form input[name="country"]{
+background-color:aquamarine;
+color:maroon;
+border: 0;
+border-bottom: 2px solid wheat;
+border-radius:0 ;
+}
+
+
+form input:focus{
+    background-color: rgb(0, 183, 255)!important;
+    box-shadow: none !important;
+}
+
+form input::-webkit-input-placeholder
+{
+    color: white !important;
+}

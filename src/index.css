@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   background-image: url("./app_component/assets/jonathan-bowers-BqKdvJ8a5TI-unsplash.jpg");
+   background-repeat: no-repeat;
+   background-size: 1600px 900px;
+
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

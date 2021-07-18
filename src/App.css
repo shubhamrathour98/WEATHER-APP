@@ -21,7 +21,28 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+}
+
+h1{
+    color: darkorange;
+}
+h2{
+  color: lightcoral;
+
+}
+h3{
+  color:rgb(255, 0, 85);
+}
+
+h4{
+
+  color:aquamarine;
+}
+
+h5{
+
+  color:rgb(75, 178, 34);
 }
 
 .App-link {
